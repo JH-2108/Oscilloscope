@@ -38,5 +38,21 @@ The goal of this project is to build an affordable educational instrument that c
 Will be inserted later
 
 # Project pictures
+**PCB design** 
 
-Will be inserted later
+<img width="782" height="460" alt="image" src="https://github.com/user-attachments/assets/4a2da294-c699-47a6-a0cd-eec2198600d8" />
+
+**Schematics**
+
+<img width="597" height="680" alt="image" src="https://github.com/user-attachments/assets/2c802447-aab4-432c-b8ed-ef5470ac361b" />
+
+**3D renderred PCB design**
+
+<img width="895" height="535" alt="image" src="https://github.com/user-attachments/assets/781b1ff3-a14f-4a5d-a33f-c8fcef60af5d" />
+
+**3D render with enclosure**
+
+A picture will be added here 
+
+
+
