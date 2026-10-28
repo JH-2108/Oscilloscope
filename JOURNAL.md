@@ -10,12 +10,12 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 4 | Tier 1 | 3.25h | 2 |
+| Week 4 | Tier 1 | 3.75h | 2 |
 
 ## Contents
 
 1. [2026-10-28: **BOM planning and readme generation**](#2026-10-28-bom-planning-and-readme-generation)
-2. [2026-10-28: Work session](#2026-10-28-work-session)
+2. [2026-10-28: **Designing of the entire PCB**](#2026-10-28-designing-of-the-entire-pcb)
 
 ## Design
 
@@ -37,8 +37,12 @@ My readme.md
 ![image](https://halflife.hackclub-assets.com/sessions/vxL2pduJ8aoZ6ir0BeAE8MP0uXIpb6g2/912f29275c6fc23fef18d1fdc5cf08d5905a9770313c062503298404f910a2fa.png)
 my BOM.csv
 
-### 2026-10-28: Work session
+### 2026-10-28: **Designing of the entire PCB**
 
-**1.25h**
+**1.75h**
+
+**Designing of the entire PCB**
+
+This PCB helps to combine every single component together, such as the EC11 rotary encoders, 2 of them one for timebase and the other for voltage, a bornier wire connectors as well, a 1.8inch TFT screen for the waveforms and the graphs that the oscilloscope would produce, and a ESP32 CH340 type c development board as the main microcontroller to ensure that the entire oscilloscope would function properly. I took an extra 30 minutes to work on BOM, finding other vendors, datasheets and all, making sure that the PCB would work properly once it's been made.
 
 [Timelapse](https://lookout.hackclub.com/api/media/2c383581-270d-439a-9431-ca288be5cdbd/video.mp4)
