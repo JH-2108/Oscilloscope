@@ -71,6 +71,8 @@ After I coded the entire thing in VSC, I had to go to Arduino IDE and download t
 
 After finishing the entire CAD model for  the oscilloscope, I went on to design an enclosure for it, after all it will be an oscilloscope that I will have to use for a very long time anyways. I designed it with screws so that the electronics components won't touch the bottom of the enclosure and it won't move inside of the CAD enclosure that I made for it, there are dedicated holes for the screen, signal inputs, the microcontroller port, and the 2 rotary encoders.
 
+Aside from the timelapse recording, I also spent some extra time downloading the files, analyzing the dimensions and doing some extra changes to the enclosure after I stopped the lapse recording.
+
 ![Screenshot 2026-10-29 181258](https://halflife.hackclub-assets.com/sessions/vxL2pduJ8aoZ6ir0BeAE8MP0uXIpb6g2/25cece16c18b8359f084b8fd55ba1c2fe4d8f123b1fc6bdaa6c779fa3ccffa62.png)
 
 [Timelapse](https://lookout.hackclub.com/api/media/933b0448-cbef-43ef-abde-ead23392f2d1/video.mp4)
