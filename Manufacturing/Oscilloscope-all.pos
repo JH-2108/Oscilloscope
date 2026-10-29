@@ -1,0 +1,20 @@
+### Footprint positions - created on 2026-10-29T20:16:18 ###
+### Printed by KiCad version 10.0.5
+## Unit = mm, Angle = deg.
+## Side : All
+# Ref     Val                   Package                                                             PosX       PosY       Rot  Side
+C1        100nF                 C_Disc_D5.0mm_W2.5mm_P5.00mm                                    128.7780   -64.9732    0.0000  top
+C2        100nF                 C_Disc_D5.0mm_W2.5mm_P5.00mm                                    128.7780   -69.0232    0.0000  top
+C3        100nF                 C_Disc_D5.0mm_W2.5mm_P5.00mm                                    128.7780   -73.0732    0.0000  top
+C4        10uF                  C_Disc_D5.0mm_W2.5mm_P5.00mm                                    128.7780   -77.1232    0.0000  top
+C5        10uF                  C_Disc_D5.0mm_W2.5mm_P5.00mm                                    128.7780   -81.1732    0.0000  top
+J1        Left_Header           PinSocket_1x15_P2.54mm_Vertical                                 115.3668   -55.4228   90.0000  top
+J2        Right_Header          PinSocket_1x15_P2.54mm_Vertical                                 115.3668   -30.0228   90.0000  top
+J3        Conn_01x08            PinHeader_1x08_P2.54mm_Vertical                                 109.1692   -48.5648  180.0000  top
+J4        Conn_01x02            TerminalBlock_Phoenix_MKDS-1,5-2-5.08_1x02_P5.08mm_Horizontal   117.6478   -76.6265    0.0000  top
+R1        10k                   R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal               110.2360   -80.1116  180.0000  top
+R2        10k                   R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal               113.7412   -66.1924    0.0000  top
+SW1       RotaryEncoder_Switch  RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm                   80.6484   -72.3684    0.0000  top
+SW2       RotaryEncoder_Switch  RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm                   57.6360   -72.3684    0.0000  top
+U1        MCP6002-xP            DIP-8_W7.62mm                                                   100.1776   -64.8208    0.0000  top
+## End
