@@ -40,7 +40,7 @@ Will be inserted later
 # Project pictures
 **PCB design** 
 
-<img width="782" height="460" alt="image" src="https://github.com/user-attachments/assets/4a2da294-c699-47a6-a0cd-eec2198600d8" />
+<img width="785" height="466" alt="image" src="https://github.com/user-attachments/assets/d6af0faa-8821-4f1c-8b6f-bf1bd93c5277" />
 
 **Schematics**
 
