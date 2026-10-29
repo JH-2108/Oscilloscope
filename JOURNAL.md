@@ -10,7 +10,7 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 4 | Tier 1 | 6.3h | 4 |
+| Week 4 | Tier 1 | 6.55h | 4 |
 
 ## Contents
 
@@ -65,7 +65,7 @@ After I coded the entire thing in VSC, I had to go to Arduino IDE and download t
 
 ### 2026-10-29: **Completed the entire oscilloscope enclosure**
 
-**1.8h**
+**2.05h**
 
 **Completed the entire oscilloscope enclosure**
 
