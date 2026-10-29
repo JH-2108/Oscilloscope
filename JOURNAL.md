@@ -10,14 +10,14 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 4 | Tier 1 | 5.8h | 4 |
+| Week 4 | Tier 1 | 6.3h | 4 |
 
 ## Contents
 
 1. [2026-10-28: **BOM planning and readme generation**](#2026-10-28-bom-planning-and-readme-generation)
 2. [2026-10-28: **Designing of the entire PCB**](#2026-10-28-designing-of-the-entire-pcb)
 3. [2026-10-28: **Firmware coding for the oscilloscope**](#2026-10-28-firmware-coding-for-the-oscilloscope)
-4. [2026-10-29: Work session](#2026-10-29-work-session)
+4. [2026-10-29: **Completed the entire oscilloscope enclosure**](#2026-10-29-completed-the-entire-oscilloscope-enclosure)
 
 ## Design
 
@@ -63,8 +63,14 @@ After I coded the entire thing in VSC, I had to go to Arduino IDE and download t
 
 ![image](https://halflife.hackclub-assets.com/sessions/vxL2pduJ8aoZ6ir0BeAE8MP0uXIpb6g2/7059fad9bd3e4c7cb45417b7eae8321f8994b8302e1756a11eb8920073db6db2.png)
 
-### 2026-10-29: Work session
+### 2026-10-29: **Completed the entire oscilloscope enclosure**
 
-**1.3h**
+**1.8h**
+
+**Completed the entire oscilloscope enclosure**
+
+After finishing the entire CAD model for  the oscilloscope, I went on to design an enclosure for it, after all it will be an oscilloscope that I will have to use for a very long time anyways. I designed it with screws so that the electronics components won't touch the bottom of the enclosure and it won't move inside of the CAD enclosure that I made for it, there are dedicated holes for the screen, signal inputs, the microcontroller port, and the 2 rotary encoders.
+
+![Screenshot 2026-10-29 181258](https://halflife.hackclub-assets.com/sessions/vxL2pduJ8aoZ6ir0BeAE8MP0uXIpb6g2/25cece16c18b8359f084b8fd55ba1c2fe4d8f123b1fc6bdaa6c779fa3ccffa62.png)
 
 [Timelapse](https://lookout.hackclub.com/api/media/933b0448-cbef-43ef-abde-ead23392f2d1/video.mp4)
