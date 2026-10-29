@@ -52,7 +52,7 @@ Will be inserted later
 
 **3D render with enclosure**
 
-A picture will be added here 
+<img width="980" height="550" alt="image" src="https://github.com/user-attachments/assets/6da70fff-9a33-43ea-95a3-359a0e112cb0" />
 
 
 
